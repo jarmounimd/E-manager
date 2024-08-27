@@ -19,3 +19,8 @@ E-manager is an academic management application designed to streamline various e
 - **Model-View-Controller (MVC)**
 - **Cascading Style Sheets (CSS)**
 - **HTML**
+
+## Contact
+- **Developer: Mohamed JARMOUNI**
+- **Email: jarmounimd@gmail.com**
+- **GitHub: jarmounimd**
