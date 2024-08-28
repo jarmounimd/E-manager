@@ -20,6 +20,15 @@ E-manager is an academic management application designed to streamline various e
 - **Cascading Style Sheets (CSS)**
 - **HTML**
 
+
+## 🎥 Project Demo
+
+Check out the demo video of the E-manager project:
+
+[![E-manager Demo](https://img.youtube.com/vi/N-cbUr1bGMc/0.jpg)](https://www.youtube.com/watch?v=N-cbUr1bGMc)
+
+---
+
 ## Contact
 - **Developer: Mohamed JARMOUNI**
 - **Email: jarmounimd@gmail.com**
