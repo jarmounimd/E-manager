@@ -2,7 +2,7 @@
 
 ## 🎥 Project Demo
 Check out the demo video of the E-manager project:
-[![E-manager Demo](https://img.youtube.com/vi/N-cbUr1bGMc/maxresdefault.jpg)](https://www.youtube.com/watch?v=N-cbUr1bGMc)
+[![E-manager Demo](https://img.youtube.com/vi/N-cbUr1bGMc/hqdefault.jpg)](https://www.youtube.com/watch?v=N-cbUr1bGMc)
 
 ## Project Description
 E-manager is an academic management application designed to streamline various educational processes. It includes features for managing grades, tracking tasks, and handling other academic functions. Developed primarily in PHP with some JavaScript, HTML, and CSS, E-manager follows the MVC architecture. It aims to enhance the efficiency of academic administration and improve the user experience for students, teachers, and administrators.
